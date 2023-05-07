@@ -214,6 +214,10 @@ nav .item li {
     justify-content: center;
 }
 
+.gallery .box{
+      margin:0px 10px;
+}
+
 .gallery img {
     max-width: 400px;
     height: 300px;
